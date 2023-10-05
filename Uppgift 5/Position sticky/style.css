@@ -1,0 +1,32 @@
+.stick {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: lightblue;
+    padding: 0.5rem;
+}
+
+.A {
+    position: relative;
+    
+}
+
+p {
+    position: relative;
+    left: 1rem;
+}
+
+.parent {
+   margin: 1rem;
+
+   scroll-behavior: smooth;
+
+}

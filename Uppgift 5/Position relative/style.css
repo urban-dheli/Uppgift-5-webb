@@ -1,0 +1,57 @@
+.parent {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    background-color: rgb(193, 193, 193);
+    padding: 1rem;
+}
+
+/*one*/
+
+.one {
+    background-color: lightblue;
+    padding: 0.5rem;
+}
+
+.one:hover {
+    position: relative;
+    left: 1rem;
+    margin-right: 1rem;
+}
+
+.one:active {
+    background-color: rgb(74, 107, 118);
+}
+
+/*two*/
+
+.two {
+    background-color: lightgreen;
+    padding: 0.5rem;
+}
+
+.two:hover {
+    position: relative;
+    left: 1rem;
+    margin-right: 1rem;
+}
+
+.two:active {
+    background-color: rgb(74, 126, 74);
+}
+
+/*three*/
+
+.three {
+    background-color: pink;
+    padding: 0.5rem;
+}
+
+.three:hover {
+    position: relative;
+    left: 1rem;
+    margin-right: 1rem;
+}
+
+.three:active {
+    background-color: rgb(160, 101, 111);
+}
